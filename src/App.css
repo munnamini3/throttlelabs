@@ -1,0 +1,16 @@
+.rowCss:hover {
+  background-color: #DCDCDC;
+  color           : white;
+}
+.cellColor{
+  color:white
+}
+.header{
+ color: green
+}
+
+.modal{
+    display: 'flex';
+    text-align: 'center';
+    justify-content: 'center',
+}
